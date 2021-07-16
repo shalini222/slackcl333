@@ -1,6 +1,6 @@
 # slackcl333
 
-# Getting Started with Create React App
+# Getting Started with Slack Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -35,6 +35,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+![ss2](https://user-images.githubusercontent.com/72884585/125921494-22b5529d-699a-4c3f-ba76-26d3d9459b9a.png)
+![ss3](https://user-images.githubusercontent.com/72884585/125921522-e92eb1c6-7e6a-4cfb-a985-41f2d978d7dd.png)
 
 
 
